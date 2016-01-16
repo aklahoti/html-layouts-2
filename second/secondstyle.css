@@ -69,11 +69,21 @@ p {
 	position: relative;
 }
 
-.subtext {
+.subtext1 {
 	display: inline-block;
 	color: white;
 	font-size: 20px;
 	font-family: sans-serif;
-	margin-right: 5%;
+	padding-left: 70%;
+	margin-top: 3%;
+
+}
+
+.subtext2 {
+	display: inline-block;
+	color: white;
+	font-size: 20px;
+	font-family: sans-serif;
+	margin-left: 5%;
 
 }
